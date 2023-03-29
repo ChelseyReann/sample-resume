@@ -1,0 +1,24 @@
+{
+    "name": "Chelsey Alphonso",
+    "website": "https://chelseyreann.github.io/",
+    "linkedin": "https://www.linkedin.com/in/chelsey-alphonso-84067353/",
+    "github": "https://github.com/ChelseyReann",
+    "email": "chelseyreann@gmail.com",
+    "proficientLanguages": [
+        "Javascript",
+        "React",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python"
+    ],
+    "hobbies": [
+        "cooking & eating food",
+        "trying new restaurants",
+        "cuddling with my cat",
+        "hanging out with my boyfriend",
+        "watching bad TV with my best friend",
+        "babysitting my nieces and nephews"
+    ]
+}
